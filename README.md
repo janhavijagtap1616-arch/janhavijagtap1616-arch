@@ -22,8 +22,8 @@ I'm passionate about programming, problem-solving, and building practical applic
 Data Structures & Algorithms, Cloud Computing, and Web Development.
 
 ### 🤝 Connect With Me
-- GitHub: [https://github.com/janhavijagtap1616-arch]
-- LinkedIn: [https://www.linkedin.com/in/janhavi-jagtap-3b3061295/]
+- GitHub: https://github.com/janhavijagtap1616-arch
+- LinkedIn: https://www.linkedin.com/in/janhavi-jagtap-3b3061295/
 - Email: janhavijagtap1616@gmail.com
   
 ---
